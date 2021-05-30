@@ -84,10 +84,10 @@
   To contribute to this project, please send an email.  
   <br>
   The contributors for this project are:
-    - Alexander Vadeboncoeur
-    - Philip Perkins
-    - Bryan Gee
-    - D. Javan Worthy
+  - Alexander Vadeboncoeur
+  - Philip Perkins
+  - Bryan Gee
+  - D. Javan Worthy
 
 ***
   ## Tests:
