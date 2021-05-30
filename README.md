@@ -56,14 +56,14 @@
 
 ***
   ## Technologies
-    - Node.js
-    - Handlebars.js
-    - MySQL2
-    - Sequelize
-    - Express-session
-    - Dotenv
-    - Bcrypt
-    - Countapi-js 
+  - Node.js
+  - Handlebars.js
+  - MySQL2
+  - Sequelize
+  - Express-session
+  - Dotenv
+  - Bcrypt
+  - Countapi-js 
 
   ## Usage:
   This application utilizes several web and database technologies that allows a user to review gun safety articles, broswse guns on an electronic catalog, and store and retrieve a personal gun inventory.  The gun inventory is entered by the user and the application will save the information for later use.  The user gains all of this functionality when he/she is logged into the application.  A MySQL database is used to store user informatio, the users inventory, and the gun catalog.  The website has a secure authentication process to access the website for both current and new users.  
